@@ -36,8 +36,8 @@ class ResultsPage extends StatelessWidget {
                 Text(
                   weightClass,
                   style: TextStyle(
-                    color: Colors.green,
-                    fontSize: 22.0,
+                    color: Colors.green[500],
+                    fontSize: 40.0,
                     fontWeight: FontWeight.bold,
                   ),
                 ),
@@ -46,7 +46,8 @@ class ResultsPage extends StatelessWidget {
                 ),
                 Text(
                   bmiResult.toStringAsFixed(1),
-                  style: TextStyle(fontSize: 90.0, fontWeight: FontWeight.bold),
+                  style:
+                      TextStyle(fontSize: 110.0, fontWeight: FontWeight.bold),
                 ),
                 SizedBox(
                   height: 90.0,
@@ -56,7 +57,7 @@ class ResultsPage extends StatelessWidget {
                   child: Text(
                     description,
                     style: TextStyle(
-                      fontSize: 22.0,
+                      fontSize: 24.0,
                     ),
                     textAlign: TextAlign.center,
                   ),
