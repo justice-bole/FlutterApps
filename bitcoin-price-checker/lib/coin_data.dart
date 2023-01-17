@@ -1,5 +1,4 @@
 import 'package:http/http.dart';
-import 'package:http/http.dart';
 import 'dart:convert';
 
 const List<String> currenciesList = [
