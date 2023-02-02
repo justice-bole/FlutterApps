@@ -1,16 +1,19 @@
-# todoey
+# Todoey
 
-A new Flutter project.
+## The Goal
 
-## Getting Started
+The objective of this application is to create a todo list using flutter state management.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## What's Todoey?
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Todoey is a task tracking application that allows you to add, cross out, and remove tasks.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Finished App](TODOEY_GIF)
+
+## How it Works
+
+- Uses the BottomSheet widget to access the append menu.
+- Uses ListView to view listed tasks.
+- Implements the provider package to manage state.
+- Uses InheritedWidget class to efficiently propogate data down the node tree.
