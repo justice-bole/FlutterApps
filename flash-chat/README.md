@@ -12,10 +12,10 @@ A modern messaging app where users can sign up and log in to chat.
 
 ## How It Works
 
-- Incorporates Firebase into your Flutter projects.
+- Incorporates the Firebase Flutter package.
 - Uses Firebase authentication to register and sign in users.
 - Implements the Flutter Hero widget for animation.
-- Created custom aniamtions using Flutter's animation controller. 
+- Uses custom aniamtions using Flutter's animation controller. 
 - Leverages mixins and superclasses.
 - Takes advantage of Streams.
 - Uses ListViews to build scrolling views.
