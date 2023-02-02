@@ -99,7 +99,7 @@
  <br>
  [See Idea's source](https://github.com/justice-bole/FlutterApps/tree/main/random-idea-generator)<br>
  <br>
- ![Flash Chat Application Demo](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
+ ![Idea Generator Application Demo](ADD_IDEAGEN_GIF)
  
  ---
  
@@ -115,28 +115,27 @@
  ### I Am Rich
  A simple homage to Armin Heinrich's 2008 hit "I Am RIch.<br>
  <br>
- [Take me to the project!](https://github.com/justice-bole/FlutterApps/tree/main/flash-chat)<br>
+ [See I Am Rich's soure](https://github.com/justice-bole/FlutterApps/tree/main/flash-chat)<br>
  <br>
- ![Flash Chat Application Demo](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
+ ![I Am Rich Application Demo](ADD_RICH_GIF)
  
  ---
  
- ### Flash Chat
+ ### I Am Poor
  An asyncronous instant messaging app that uses FireBase to allow users to create, authenticate, and log-in to a unique account. Once logged in users can
  read and write messages instantly.<br>
  <br>
- [Take me to the project!](https://github.com/justice-bole/FlutterApps/tree/main/flash-chat)<br>
+ [See I am Poor's source](https://github.com/justice-bole/FlutterApps/tree/main/flash-chat)<br>
  <br>
- ![Flash Chat Application Demo](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
+ ![I Am Poor Application Demo](ADD_POOR_GIF)
  
  ---
  
- ### Flash Chat
- An asyncronous instant messaging app that uses FireBase to allow users to create, authenticate, and log-in to a unique account. Once logged in users can
- read and write messages instantly.<br>
+ ### THE GC (WIP)
+ A mobile application for a local garbage can cleaning service. Customers can download the app, get information on what the GC does and allows customers to sign up and request services. Customers can choose to share their information and address with GC. GC uses this information to add customers to a pre planned route and if the customer fits into the route they'll be notified and approved for services. Customers can be notified on the date GC will arrive for services, when GC is on the way to perform services, and are given opportunities to cancel or reschedule services if needed.<br>
  <br>
- [Take me to the project!](https://github.com/justice-bole/FlutterApps/tree/main/flash-chat)<br>
+ [See GC's source](https://github.com/justice-bole/FlutterApps/tree/main/flash-chat)<br>
  <br>
- ![Flash Chat Application Demo](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
+ ![GC Application Demo](ADD_GC_GIF)
  
  ---
